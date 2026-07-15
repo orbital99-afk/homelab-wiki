@@ -2,7 +2,7 @@
 title: Ancient Texts
 description: Historical artifacts, retired documentation, migration records, and knowledge preserved for future generations.
 published: true
-date: 2026-07-15T04:31:19.408Z
+date: 2026-07-15T04:47:25.277Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-11T06:08:29.175Z
@@ -26,7 +26,7 @@ Historical artifacts, retired documentation, migration records, and knowledge pr
 - Migration Backups
 - Retired Procedures
 - Historical Network Diagrams
-- Previous Architecture Decision
+- Previous Architecture Decisions
 
 ## Purpose
 
