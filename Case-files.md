@@ -26,7 +26,7 @@ Investigations, troubleshooting sessions, incident reports, and mysteries encoun
 - UPS Recovery Incident
 - Portainer Database Recovery
 - Prometheus Database Recovery
-- [The Whitespace Assasin](/Case-files/Whitespace)
+- [The Whitespace Assassin](/Case-files/Whitespace)
 ---
 
 ### Case Classification

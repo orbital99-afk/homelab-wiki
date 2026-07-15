@@ -12,6 +12,11 @@ dateCreated: 2026-06-10T11:50:05.964Z
 
 The official archive of completed and ongoing homelab operations.
 
+## Runbooks
+
+- [Saturday Maintenance Runbook](/Operations/Saturday-Maintenance-Runbook)
+- [Disaster Recovery: Reese Dies](/Operations/Disaster-Recovery-Reese-Dies)
+
 ## Active Operations
 
 - Operation Environmental Reconnaissance

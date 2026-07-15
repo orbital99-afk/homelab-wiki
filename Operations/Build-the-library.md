@@ -22,7 +22,7 @@ Implementation
 
 Platform
 
-* Wiki.js
+* The Library (Wiki.js)
 * PostgreSQL
 
 Host
@@ -33,9 +33,9 @@ Host
 Deployment Notes
 
 * PostgreSQL database deployed successfully.
-* Wiki.js container deployed successfully.
+* The Library (Wiki.js) container deployed successfully.
 * Initial port conflict encountered with Grafana.
-* Wiki.js reassigned to port 3003.
+* The Library reassigned to port 3003.
 * Service verified operational.
 
 Initial Structure

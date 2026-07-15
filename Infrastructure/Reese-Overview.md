@@ -41,7 +41,7 @@ Storage responsibilities remain with Fusco while Reese hosts the majority of app
 
 ### Power Protection
 
-- UPS Protected (Carter)
+- UPS Protected (Bear)
 
 ---
 
@@ -84,7 +84,7 @@ Hosts Plex and supporting media applications.
 ### Infrastructure
 
 - Portainer
-- Homepage
+- Homepage (Zoe)
 - Glances
 
 ### Monitoring
@@ -93,7 +93,7 @@ Hosts Plex and supporting media applications.
 - Prometheus
 - Node Exporter
 - cAdvisor
-- Uptime Kuma
+- Uptime Kuma (Carter)
 
 ### Media
 
@@ -112,7 +112,7 @@ Hosts Plex and supporting media applications.
 
 ### Documentation
 
-- Wiki.js
+- The Library (Wiki.js)
 - PostgreSQL
 
 ---
@@ -221,9 +221,11 @@ while relying on Fusco for storage.
 | Gaming PC | The Machine |
 | Mac mini | John Reese |
 | Synology NAS | Lionel Fusco |
-| UPS | Joss Carter |
-| Tailscale | Subway Network |
-| Homepage | The Library |
+| UPS | Bear |
+| Tailscale | Elias |
+| Homepage | Zoe |
+| Uptime Kuma | Carter |
+| Wiki.js / documentation | The Library |
 
 ---
 

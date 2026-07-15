@@ -15,12 +15,22 @@ Welcome to The Library.
 
 ## Sections
 
+- [Canon](/Canon)
 - [Operations](/Operations)
 - [Infrastructure](/Infrastructure)
 - [Seedbox](/Seedbox)
 - [Future Projects](/Future-Projects)
 - [Case-files](/Case-files)
 - [Ancient-Texts](/Ancient-Texts)
+
+## Backbone Documentation
+
+- [Service Catalogue](/Infrastructure/Service-Catalogue)
+- [Network Map](/Infrastructure/Network-Map)
+- [Backups and Restore](/Infrastructure/Backups-and-Restore)
+- [Monitoring](/Infrastructure/Monitoring)
+- [Saturday Maintenance Runbook](/Operations/Saturday-Maintenance-Runbook)
+- [Disaster Recovery: Reese Dies](/Operations/Disaster-Recovery-Reese-Dies)
 
 ---
 

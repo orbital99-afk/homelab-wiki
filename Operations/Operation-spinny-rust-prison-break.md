@@ -153,7 +153,7 @@ Following restoration:
 - Portainer operational
 - Prometheus operational
 - Grafana operational
-- Homepage operational
+- Zoe (Homepage) operational
 - Tailscale operational
 - NUT operational
 - Uptime Kuma operational
