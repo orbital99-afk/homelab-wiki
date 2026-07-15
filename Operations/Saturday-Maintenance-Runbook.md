@@ -16,6 +16,8 @@ dateCreated: 2026-07-15T00:00:00.000Z
 
 Run this checklist weekly or at the next sensible maintenance window. Record anything unusual before fixing it; mysteries are easier when the evidence has not been restarted.
 
+If a check fails, stop improvising and use the relevant [Runbook](/Runbooks).
+
 ## Ubuntu Updates — Has the OS Been Quietly Judging Us?
 
 - [ ] Review available package updates on Reese.

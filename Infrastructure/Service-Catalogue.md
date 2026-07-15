@@ -12,6 +12,8 @@ dateCreated: 2026-07-15T00:00:00.000Z
 
 This is the quick answer to “what is that container, and will anyone notice if it stops?” Access details should be verified against the current compose files and Zoe before changing ports or URLs.
 
+For inspection, restart, and recovery procedures, see the [Runbooks](/Runbooks).
+
 | Service | Codename | Host | Purpose | Notes |
 |---|---|---|---|---|
 | Plex | — | Reese | Streams the media libraries stored on Fusco | Validate Fusco mounts before blaming Plex |
