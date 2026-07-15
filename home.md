@@ -2,14 +2,14 @@
 title: The Library
 description: Homelab operations, case files, infrastructure documentation, future projects, and archived knowledge.
 published: true
-date: 2026-07-15T04:46:00.877Z
+date: 2026-07-15T04:46:06.483Z
 tags: homelab, documentation, library
 editor: markdown
 dateCreated: 2026-06-10T11:42:00.005Z
 ---
 
 
-# The Librar
+# The Library
 
 Welcome to The Library.
 
