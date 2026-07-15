@@ -12,6 +12,8 @@ dateCreated: 2026-06-10T11:50:05.964Z
 
 The official archive of completed and ongoing homelab operations.
 
+For the full register—including recovered names, future missions, and matters of disputed committee provenance—see the [Operation Archive](/Operations/Operation-Archive).
+
 ## Runbooks
 
 - [Saturday Maintenance Runbook](/Operations/Saturday-Maintenance-Runbook)

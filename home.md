@@ -19,6 +19,7 @@ Welcome to The Library. The Library exists because Future Daniel deserves better
 - [Known Goblins](/Case-files/Known-Goblins)
 - [Runbooks](/Runbooks)
 - [Operations](/Operations)
+- [Operation Archive](/Operations/Operation-Archive)
 - [Infrastructure](/Infrastructure)
 - [Seedbox](/Seedbox)
 - [Future Projects](/Future-Projects)
