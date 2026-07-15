@@ -2,7 +2,7 @@
 title: Operation Copycat Deluge
 description: Evaluation of Deluge as a potential future torrent client while preserving the existing rTorrent workflow.
 published: true
-date: 2026-07-15T04:47:41.902Z
+date: 2026-07-15T04:47:47.546Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-11T06:43:33.070Z
@@ -14,7 +14,7 @@ dateCreated: 2026-06-11T06:43:33.070Z
 
 Evaluate Deluge 2.2.0 as a potential future torrent client for the RapidSeedbox environment while preserving the existing rTorrent workflow and active torrent fleet.
 
-The primary goal was to determine whether Deluge could support category-aware export automation, allowing completed torrents to continue seeding while media is exported for Syncthing distribution and Arr import workflows
+The primary goal was to determine whether Deluge could support category-aware export automation, allowing completed torrents to continue seeding while media is exported for Syncthing distribution and Arr import workflows.
 
 ---
 
