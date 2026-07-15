@@ -35,4 +35,23 @@ This is the quick answer to “what is that container, and will anyone notice if
 | Tailscale | Elias | Reese and authorised devices | Provides private remote access | Preferred remote-access path |
 | NUT | Bear monitoring | Reese / UPS connection | Collects UPS state and battery telemetry | Bear is the physical UPS; NUT supplies its telemetry |
 
+## Committee Notes
+
+- **Plex:** The theatre.
+- **Sonarr:** TV acquisition goblin.
+- **Radarr1080:** Sensible movie department.
+- **Radarr4K:** Show pony division.
+- **Prowlarr:** Index whisperer.
+- **Jellyseerr / Seerr:** Request desk with veto power.
+- **Kometa:** Poster fashion crimes, but intentional.
+- **Tautulli:** Who watched what, and why are they like this?
+- **Portainer / Shaw:** Container bouncer.
+- **Uptime Kuma / Carter:** Alive/dead detective.
+- **Homepage / Zoe:** Reception desk.
+- **Prometheus:** Metric hoarder.
+- **Grafana:** Pretty panic.
+- **ntfy:** Phone yelling service.
+- **Wiki.js / The Library:** Memory palace with Markdown shelves.
+- **Tailscale / Elias:** Creepy van network, but secure.
+
 Most applications run as Docker containers on Reese. Fusco supplies storage and media shares; it is not a convenient place to improvise application changes.

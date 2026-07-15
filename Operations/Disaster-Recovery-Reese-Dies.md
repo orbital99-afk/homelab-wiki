@@ -10,7 +10,11 @@ dateCreated: 2026-07-15T00:00:00.000Z
 
 # Disaster Recovery: Reese Dies
 
-If Reese dies, pause before converting the garage cupboard into a crime scene. Preserve the failed machine and storage until the recovery is complete.
+## Operation Aluminium Crab Down
+
+> If Reese dies, do not panic. Panic is scheduled for after we confirm the latest backup.
+
+Pause before converting the garage cupboard into a crime scene. Preserve the failed machine and storage until the recovery is complete.
 
 ## 1. Confirm the Backup
 

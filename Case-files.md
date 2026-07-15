@@ -10,7 +10,13 @@ dateCreated: 2026-06-11T06:06:23.481Z
 
 # Case Files
 
+Case files are where solved crimes go so they stop pretending to be mysteries.
+
 Investigations, troubleshooting sessions, incident reports, and mysteries encountered during homelab operations.
+
+## Field Guide
+
+- [Known Goblins](/Case-files/Known-Goblins) — recurring offenders, symptoms, and usual suspects.
 
 ## Active Cases
 

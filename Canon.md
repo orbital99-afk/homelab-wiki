@@ -25,6 +25,20 @@ The Library uses *Person of Interest* names as shorthand for systems, services, 
 | Root | ChatGPT / AI assistant / committee voice | Assistance, analysis, and opinions delivered with suspicious confidence |
 | HR | YAML and configuration crimes | The place malformed indentation is sent for disciplinary review |
 
+## The Committee Roster
+
+- **Finch** — Daniel, the operator, and reluctant architect.
+- **Root** — AI assistant and suspiciously enthusiastic infrastructure gremlin.
+- **Reese** — 2012 Mac mini, primary Docker host, and aluminium crab in the cupboard.
+- **Fusco** — Synology NAS, storage muscle, and occasionally grumpy filing cabinet.
+- **Bear** — UPS and battery-powered emotional support animal.
+- **Carter** — Uptime Kuma; the one who tells us who is dead.
+- **Shaw** — Portainer, container wrangler with trust issues.
+- **Zoe** — Homepage, the polished front desk with secrets.
+- **Elias** — Tailscale and creepy van network access.
+- **HR** — YAML, bad config, and anything involving indentation crimes.
+- **The Library** — Wiki.js, institutional memory, and the place Future Daniel goes to avoid asking “what did we do?”
+
 ## Operation Names
 
 Operation names are intentionally silly. They also give migrations, investigations, and maintenance jobs memorable labels that are easier to search than “that thing we did one Saturday.”
@@ -34,3 +48,5 @@ Operation names are intentionally silly. They also give migrations, investigatio
 Do not rename systems casually. A codename may appear in dashboards, alerts, runbooks, compose files, and historical case files. If a rename is genuinely required, update The Library and every operational dependency as one planned change.
 
 When in doubt, consult this page before inventing a new identity.
+
+> **Canon warning:** Canon is documentation glue. Rename characters only with cause, caffeine, and a rollback plan.

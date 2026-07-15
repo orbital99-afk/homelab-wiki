@@ -11,11 +11,12 @@ dateCreated: 2026-06-10T11:42:00.005Z
 
 # The Library
 
-Welcome to The Library.
+Welcome to The Library. The Library exists because Future Daniel deserves better than Past Daniel’s terminal history.
 
 ## Sections
 
 - [Canon](/Canon)
+- [Known Goblins](/Case-files/Known-Goblins)
 - [Operations](/Operations)
 - [Infrastructure](/Infrastructure)
 - [Seedbox](/Seedbox)
