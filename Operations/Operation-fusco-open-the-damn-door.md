@@ -18,9 +18,17 @@ dateCreated: 2026-07-16T00:00:00.000Z
 
 Completed
 
-## Mission Brief
+## Objective
 
 Ensure Reese could reliably access media and storage shares hosted on Fusco without manual remounting, mysterious empty folders, or services wandering through nonexistent directories.
+
+The objective was not merely to make the share visible. It was to prevent the homelab from mistaking a missing mount for an application failure and then panicking in the wrong direction.
+
+## Background
+
+Media and storage lived on Fusco, but Reese needed those shares mounted locally in a way that containers, Plex, and backup scripts could depend on. When mount failures occurred, the symptoms could be misleading: healthy services appeared broken, empty directories looked like evidence, and the investigation became a chase through the wrong layer of the stack.
+
+The Committee therefore authorised a mount-focused operation to determine whether the problem was storage access, service configuration, or the very convincing lie of an empty local folder.
 
 ## Systems Involved
 
@@ -37,16 +45,9 @@ Ensure Reese could reliably access media and storage shares hosted on Fusco with
 - Docker bind mounts
 - Backup scripts
 
-## The Problem
+## Phase 1: Confirm the Share and the Fault Domain
 
-- Media and storage lived on Fusco.
-- Reese needed those shares mounted locally.
-- If mounts failed, containers could see empty directories or stale paths.
-- Plex and the Arr stack could appear broken even though the applications themselves were healthy.
-- Boot timing and network availability could affect mount reliability.
-- Permissions and credentials needed to work consistently.
-
-## Investigation
+The first phase involved proving whether Fusco was reachable and whether the problem was a mount issue or a container-path issue.
 
 - Confirmed Fusco was reachable over the network.
 - Verified that the SMB shares existed and were accessible.
@@ -73,7 +74,9 @@ systemctl status remote-fs.target
 journalctl -b | grep -i cifs
 ```
 
-## Actions Taken
+## Phase 2: Repair the Mount Path
+
+Once the fault domain was clear, the mount configuration itself was corrected and verified.
 
 1. Created or confirmed the required local mount points.
 2. Configured SMB/CIFS mounts in `/etc/fstab`.
@@ -84,12 +87,23 @@ journalctl -b | grep -i cifs
 7. Confirmed Plex and the Arr stack could see the expected media folders.
 8. Documented the danger of empty mount directories: applications may write locally when Fusco is unavailable.
 
+## Notable Findings
+
+- Empty directories were not a reliable sign of a healthy share. They were, in fact, excellent liars.
+- Perfectly healthy Docker containers could be blamed for storage issues simply because the mount path they were using was absent or wrong.
+- The problem was frequently not the application. It was the path, the mount, or the moment when the share was unavailable and the system quietly wrote to the wrong place.
+- The Committee found that mounting a network share is not glamorous, but it is more useful than blaming Plex for the sins of the filesystem.
+
 ## Outcome
 
 - Reese gained reliable access to Fusco's storage shares.
 - Plex and the Arr stack could use consistent local paths.
 - Mount checks became part of troubleshooting and maintenance.
 - The homelab stopped treating an unavailable share as evidence that every container had died simultaneously.
+
+## Mission Status
+
+COMPLETED
 
 ## Validation
 
@@ -100,13 +114,7 @@ journalctl -b | grep -i cifs
 - Mounts returned after reboot.
 - Containers saw the same paths expected by their configurations.
 
-## Casualties
-
-- Several minutes spent staring accusingly at perfectly healthy Docker containers.
-- One or more failed `cd..` attempts.
-- Trust in empty folders.
-
-## Lessons for Future Daniel
+## Lessons Learned
 
 - Check mounts before restarting applications.
 - An empty directory does not prove the remote share is mounted.
@@ -115,6 +123,57 @@ journalctl -b | grep -i cifs
 - Use `sudo mount -a` to test `fstab` changes before rebooting.
 - A typo in `fstab` can turn startup into performance art.
 - If Fusco is unavailable, avoid letting media applications write into the bare local mount point.
+- A mount point may look like a directory. It may also be an elaborate misunderstanding.
+
+## Official Findings
+
+The Committee determined that the storage path issue was resolved through proper SMB/CIFS mount configuration, correct local mount points, and verification of the relevant container and service paths. The result was reliable access to Fusco-backed media and storage resources on Reese.
+
+## Committee Findings
+
+### Root
+
+> “We discovered that the containers were not the problem. The mount point was the problem. This is an important lesson and also a personal insult.”
+
+### Finch
+
+> “So the containers were healthy?”
+
+### Fusco
+
+> “I was available. The door was just not open.”
+
+### Plex
+
+> “I was fine. The folder just wasn’t there.”
+
+### HR
+
+> “This is why we maintain a policy against misleading directories.”
+
+## Final Verdict
+
+Fusco was found:
+
+- Not hostile
+- Not empty in the way the local path suggested
+- Not responsible for the emotional distress of the containers
+- Merely unavailable until mounted properly
+
+## Follow-On Operations
+
+- Continue validating mounts after reboot as part of routine maintenance.
+- Continue checking host paths and container bind mounts whenever media services appear inconsistent.
+
+## Series Status
+
+This operation was renewed for another season after investigators discovered that storage mounts are recurring, the path is always suspicious, and the door is never truly open until somebody checks it properly.
+
+## Casualties
+
+- Several minutes spent staring accusingly at perfectly healthy Docker containers.
+- One or more failed `cd..` attempts.
+- Trust in empty folders.
 
 ## Best Quote
 
