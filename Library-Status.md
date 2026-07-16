@@ -32,6 +32,8 @@ The project is no longer merely accumulating pages. It is also preserving the di
 Completed operation pages currently present:
 
 - [Operation Is Reese Being Slowly Baked?](/Operations/Operation-is-Reese-being-slowly-baked)
+- [Operation The Fan Was Fine, Ubuntu Was Just Vibes](/Operations/Operation-the-fan-was-fine-ubuntu-was-just-vibes)
+- [Operation The Router Has Decided Who Deserves Bandwidth](/Operations/Operation-the-router-has-decided-who-deserves-bandwidth)
 - [Operation Spinny Rust Prison Break](/Operations/Operation-spinny-rust-prison-break)
 - [Operation Build The Library](/Operations/Build-the-library)
 - [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right)
@@ -41,6 +43,7 @@ Completed operation pages currently present:
 - [Operation Preventative Existential Crisis](/Operations/Operation-preventative-existential-crisis)
 - [Operation Why Is My 1080p Radarr Hoarding 4K Movies](/Operations/Operation-why-is-my-1080p-radarr-hoarding-4k-movies)
 - [Operation One Does Not Simply Migrate Plex](/Operations/Operation-one-does-not-simply-migrate-plex)
+- [Operation I Swear We Automated This](/Operations/Operation-i-swear-we-automated-this)
 - [Operation Copycat Deluge](/Seedbox/Operation-Copycat-Deluge)
 
 ## Needs Reconstruction

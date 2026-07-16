@@ -30,6 +30,8 @@ Recovered fragments and uncertain details belong in the [Recovered Operations In
 
 - Operation One Does Not Simply Move Plex
 - [Operation is Reese being slowly baked?](/Operations/Operation-is-Reese-being-slowly-baked)
+- [Operation The Fan Was Fine, Ubuntu Was Just Vibes](/Operations/Operation-the-fan-was-fine-ubuntu-was-just-vibes)
+- [Operation The Router Has Decided Who Deserves Bandwidth](/Operations/Operation-the-router-has-decided-who-deserves-bandwidth)
 - [Operation Spinny Rust Prison Break](/Operations/Operation-spinny-rust-prison-break)
 - Operation Get In Loser, We're Migrating
 - [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right)
@@ -40,6 +42,7 @@ Recovered fragments and uncertain details belong in the [Recovered Operations In
 - [Operation Build The Library](/Operations/Build-the-library)
 - [Operation Why Is My 1080p Radarr Hoarding 4K Movies](/Operations/Operation-why-is-my-1080p-radarr-hoarding-4k-movies)
 - [Operation One Does Not Simply Migrate Plex](/Operations/Operation-one-does-not-simply-migrate-plex)
+- [Operation I Swear We Automated This](/Operations/Operation-i-swear-we-automated-this)
 
 ---
 
