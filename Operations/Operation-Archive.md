@@ -31,6 +31,7 @@ These operations have a dedicated page or case file containing useful evidence.
 | [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right) | Completed | Bear and power monitoring | Connected Bear to Reese through NUT and integrated UPS health with Prometheus, Grafana, HealthMonitor, and ntfy. | No |
 | [Operation Morning Existential Crisis Report](/Operations/Operation-morning-existential-crisis-report) | Completed | HealthMonitor and daily reporting | Created the automated daily homelab health report, corrected its cron path, and added ZIP retention, email, and ntfy delivery. | No |
 | [Operation Creepy Van Network](/Operations/Operation-creepy-van-network) | Completed; follow-up planned | Tailscale and remote access | Established secure tailnet access and MagicDNS without public exposure; VPN-on-Demand testing and broader friendly-name integration remain planned. | No |
+| [Operation Fusco, Open The Damn Door](/Operations/Operation-fusco-open-the-damn-door) | Completed | Fusco storage and SMB mounts | Configured reliable CIFS mounts on Reese so Plex, the Arr stack, backups, and other services could use consistent storage paths. | No |
 | [Operation Copycat: The Whitespace Assassin & The Rain Dance Tunnel](/Case-files/Whitespace) | Resolved case file | Seedbox automation | Investigated whitespace and script behaviour encountered during Operation Copycat Deluge. | No |
 
 ## Recovered From Memory
