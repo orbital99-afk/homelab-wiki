@@ -38,6 +38,8 @@ Recovered fragments and uncertain details belong in the [Recovered Operations In
 - [Operation Fusco, Open The Damn Door](/Operations/Operation-fusco-open-the-damn-door)
 - [Operation Preventative Existential Crisis](/Operations/Operation-preventative-existential-crisis) — recurring weekly maintenance
 - [Operation Build The Library](/Operations/Build-the-library)
+- [Operation Why Is My 1080p Radarr Hoarding 4K Movies](/Operations/Operation-why-is-my-1080p-radarr-hoarding-4k-movies)
+- [Operation One Does Not Simply Migrate Plex](/Operations/Operation-one-does-not-simply-migrate-plex)
 
 ---
 

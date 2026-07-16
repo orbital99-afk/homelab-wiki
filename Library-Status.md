@@ -39,6 +39,8 @@ Completed operation pages currently present:
 - [Operation Creepy Van Network](/Operations/Operation-creepy-van-network)
 - [Operation Fusco, Open The Damn Door](/Operations/Operation-fusco-open-the-damn-door)
 - [Operation Preventative Existential Crisis](/Operations/Operation-preventative-existential-crisis)
+- [Operation Why Is My 1080p Radarr Hoarding 4K Movies](/Operations/Operation-why-is-my-1080p-radarr-hoarding-4k-movies)
+- [Operation One Does Not Simply Migrate Plex](/Operations/Operation-one-does-not-simply-migrate-plex)
 - [Operation Copycat Deluge](/Seedbox/Operation-Copycat-Deluge)
 
 ## Needs Reconstruction
