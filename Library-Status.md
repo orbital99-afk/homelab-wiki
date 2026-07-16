@@ -39,6 +39,8 @@ Completed operation pages currently present:
 - [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right)
 - [Operation Morning Existential Crisis Report](/Operations/Operation-morning-existential-crisis-report)
 - [Operation Creepy Van Network](/Operations/Operation-creepy-van-network)
+- [Operation No More Colon Crimes](/Operations/Operation-no-more-colon-crimes)
+- [Operation Reception Desk](/Operations/Operation-reception-desk)
 - [Operation Fusco, Open The Damn Door](/Operations/Operation-fusco-open-the-damn-door)
 - [Operation Preventative Existential Crisis](/Operations/Operation-preventative-existential-crisis)
 - [Operation Why Is My 1080p Radarr Hoarding 4K Movies](/Operations/Operation-why-is-my-1080p-radarr-hoarding-4k-movies)
@@ -52,8 +54,6 @@ Completed operation pages currently present:
 |---|---|---|---|---|
 | Operation Why Is My 1080p Radarr Hoarding 4K Movies | High | Title identified; no dedicated page yet | Captures a recurring media-management problem and would help explain a common operational confusion | Draft a page from available notes, observations, and relevant runbook context |
 | Operation I Swear We Automated This | High | Title identified; no dedicated page yet | Useful for documenting automation work that was intended to be reliable but became a lesson in overconfidence | Gather the relevant automation notes and turn them into a structured operation record |
-| Operation No More Colon Crimes | High | Title identified; no dedicated page yet | Likely covers a naming, config, or service-path issue that deserves formal documentation | Recover the supporting context and write the operation page |
-| Operation Reception Desk | High | Title identified; no dedicated page yet | Likely documents an access, identity, or service-visibility issue that would benefit from a clear record | Find the related evidence and draft the page |
 | Operation DNS Shenanigans | Medium | Title identified; no dedicated page yet | DNS issues are easy to forget once the immediate problem is gone, which makes them ideal candidates for reconstruction | Collect supporting notes and document the observed behaviour and resolution |
 | Operation Environmental Reconnaissance | Medium | Referenced as a follow-on to Operation Is Reese Being Slowly Baked? | Supports seasonal monitoring and future environmental investigations | Expand the existing context into a dedicated page with the follow-on work |
 | Operation Bring Root Inside The Machine | Medium | Title identified; no dedicated page yet | Likely covers a systems-access or privilege-management topic worth preserving | Recover the surrounding evidence and create the page |

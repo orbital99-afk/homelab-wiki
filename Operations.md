@@ -25,6 +25,8 @@ Recovered fragments and uncertain details belong in the [Recovered Operations In
 
 - Operation Environmental Reconnaissance
 - Operation Copycat Deluge
+- [Operation No More Colon Crimes](/Operations/Operation-no-more-colon-crimes) — naming foundation documented; DNS and route rollout ongoing
+- [Operation Reception Desk](/Operations/Operation-reception-desk) — reverse-proxy architecture documented; deployment and validation refinement ongoing
 
 ## Completed Operations
 
