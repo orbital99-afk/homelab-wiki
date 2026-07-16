@@ -36,6 +36,7 @@ Recovered fragments and uncertain details belong in the [Recovered Operations In
 - [Operation Morning Existential Crisis Report](/Operations/Operation-morning-existential-crisis-report)
 - [Operation Creepy Van Network](/Operations/Operation-creepy-van-network) — VPN-on-Demand follow-up planned
 - [Operation Fusco, Open The Damn Door](/Operations/Operation-fusco-open-the-damn-door)
+- [Operation Preventative Existential Crisis](/Operations/Operation-preventative-existential-crisis) — recurring weekly maintenance
 - [Operation Build The Library](/Operations/Build-the-library)
 
 ---

@@ -32,6 +32,7 @@ These operations have a dedicated page or case file containing useful evidence.
 | [Operation Morning Existential Crisis Report](/Operations/Operation-morning-existential-crisis-report) | Completed | HealthMonitor and daily reporting | Created the automated daily homelab health report, corrected its cron path, and added ZIP retention, email, and ntfy delivery. | No |
 | [Operation Creepy Van Network](/Operations/Operation-creepy-van-network) | Completed; follow-up planned | Tailscale and remote access | Established secure tailnet access and MagicDNS without public exposure; VPN-on-Demand testing and broader friendly-name integration remain planned. | No |
 | [Operation Fusco, Open The Damn Door](/Operations/Operation-fusco-open-the-damn-door) | Completed | Fusco storage and SMB mounts | Configured reliable CIFS mounts on Reese so Plex, the Arr stack, backups, and other services could use consistent storage paths. | No |
+| [Operation Preventative Existential Crisis](/Operations/Operation-preventative-existential-crisis) | Completed and recurring | Weekly homelab maintenance | Established the recurring review of updates, containers, storage, Bear, backups, notifications, and core service health. | No |
 | [Operation Copycat: The Whitespace Assassin & The Rain Dance Tunnel](/Case-files/Whitespace) | Resolved case file | Seedbox automation | Investigated whitespace and script behaviour encountered during Operation Copycat Deluge. | No |
 
 ## Recovered From Memory
@@ -69,7 +70,6 @@ These names currently exist as title cards inside practical runbooks. They are v
 
 | Operation | Status | System / Area | Summary | Needs Page? |
 |---|---|---|---|---|
-| [Operation Preventative Existential Crisis](/Operations/Saturday-Maintenance-Runbook) | Recurring runbook title | Weekly maintenance | Saturday checks intended to find problems before they become Tuesday night incidents. | No; use the runbook |
 | [Operation Aluminium Crab Down](/Operations/Disaster-Recovery-Reese-Dies) | Emergency runbook title | Reese disaster recovery | Recovery plan for rebuilding Reese from backup on replacement hardware. | No; use the runbook |
 
 ---
