@@ -15,6 +15,7 @@ Welcome to The Library. The Library exists because Future Daniel deserves better
 
 ## Sections
 
+- [Library Status](/Library-Status)
 - [Canon](/Canon)
 - [Known Goblins](/Case-files/Known-Goblins)
 - [Runbooks](/Runbooks)
