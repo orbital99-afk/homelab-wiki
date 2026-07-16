@@ -30,6 +30,7 @@ These operations have a dedicated page or case file containing useful evidence.
 | [Operation Build The Library](/Operations/Build-the-library) | Completed | The Library | Established Wiki.js and PostgreSQL on Reese as the homelab documentation system. | No |
 | [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right) | Completed | Bear and power monitoring | Connected Bear to Reese through NUT and integrated UPS health with Prometheus, Grafana, HealthMonitor, and ntfy. | No |
 | [Operation Morning Existential Crisis Report](/Operations/Operation-morning-existential-crisis-report) | Completed | HealthMonitor and daily reporting | Created the automated daily homelab health report, corrected its cron path, and added ZIP retention, email, and ntfy delivery. | No |
+| [Operation Creepy Van Network](/Operations/Operation-creepy-van-network) | Completed; follow-up planned | Tailscale and remote access | Established secure tailnet access and MagicDNS without public exposure; VPN-on-Demand testing and broader friendly-name integration remain planned. | No |
 | [Operation Copycat: The Whitespace Assassin & The Rain Dance Tunnel](/Case-files/Whitespace) | Resolved case file | Seedbox automation | Investigated whitespace and script behaviour encountered during Operation Copycat Deluge. | No |
 
 ## Recovered From Memory

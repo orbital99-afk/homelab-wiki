@@ -34,6 +34,7 @@ Recovered fragments and uncertain details belong in the [Recovered Operations In
 - Operation Get In Loser, We're Migrating
 - [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right)
 - [Operation Morning Existential Crisis Report](/Operations/Operation-morning-existential-crisis-report)
+- [Operation Creepy Van Network](/Operations/Operation-creepy-van-network) — VPN-on-Demand follow-up planned
 - [Operation Build The Library](/Operations/Build-the-library)
 
 ---
