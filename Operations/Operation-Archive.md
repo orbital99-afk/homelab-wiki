@@ -28,6 +28,7 @@ These operations have a dedicated page or case file containing useful evidence.
 | [Operation Is Reese Being Slowly Baked?](/Operations/Operation-is-Reese-being-slowly-baked) | Completed; monitoring continues | Reese and cupboard environment | Investigated Reese's thermal conditions and established ongoing environmental monitoring. | No |
 | [Operation Spinny Rust Prison Break](/Operations/Operation-spinny-rust-prison-break) | Completed | Reese storage and migration | Retired Reese's old spinning disk and enabled the SSD-era migration work that followed. | No |
 | [Operation Build The Library](/Operations/Build-the-library) | Completed | The Library | Established Wiki.js and PostgreSQL on Reese as the homelab documentation system. | No |
+| [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right) | Completed | Bear and power monitoring | Connected Bear to Reese through NUT and integrated UPS health with Prometheus, Grafana, HealthMonitor, and ntfy. | No |
 | [Operation Copycat: The Whitespace Assassin & The Rain Dance Tunnel](/Case-files/Whitespace) | Resolved case file | Seedbox automation | Investigated whitespace and script behaviour encountered during Operation Copycat Deluge. | No |
 
 ## Recovered From Memory
@@ -39,7 +40,6 @@ These names survive in overview pages, Ancient Texts, or operation references, b
 | Operation SSD Rebirth | Completed / recovered name | Reese storage | Follow-on work enabled by Spinny Rust Prison Break; the surviving name indicates Reese's SSD transition. | Yes |
 | Operation Get In Loser, We're Migrating | Completed / recovered name | Reese migration | Historical migration operation referenced by Reese's overview and the storage operation legacy. | Yes |
 | Operation One Does Not Simply Move Plex | Completed / recovered name | Plex migration | Historical Plex migration whose title correctly suggests paths, databases, and consequences were involved. | Yes |
-| Operation Electrons Are A Privilege, Not A Right | Completed / recovered name | Bear and power monitoring | Established or documented UPS telemetry through NUT; details still require a proper file. | Yes |
 | Operation Morning Existential Crisis Report | Completed / recovered name | Health reporting | Historical operation associated with the daily health report; implementation history remains unfiled. | Yes |
 
 ## Referenced But Not Yet Filed

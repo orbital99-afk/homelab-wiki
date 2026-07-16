@@ -16,7 +16,7 @@ This page temporarily holds operation names, fragments, remembered outcomes, jok
 
 | Operation | Approximate Date | Systems Involved | What Happened | Outcome | Confidence | Full Page Needed? |
 |---|---|---|---|---|---|---|
-| Operation Electrons Are A Privilege, Not A Right | Unknown | Bear; UPS; NUT | Associated with UPS telemetry and power monitoring. | UPS telemetry was established or documented; exact work remains to be reconstructed. | Mostly remembered | Yes |
+| [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right) | July 2026 validation | Reese; Bear; NUT; Prometheus; Grafana; HealthMonitor; ntfy; UPS exporter | Connected Bear to Reese using NUT and integrated UPS health into homelab monitoring. | Completed and documented; live telemetry was restored after replacing a faulty USB cable, while native runtime remained unavailable. | Confirmed | No |
 | Operation Morning Existential Crisis Report | Unknown | Health reporting | Associated with the daily health report. | Unknown; implementation history remains unfiled. | Mostly remembered | Yes |
 | Operation Creepy Van Network | Unknown | Unknown | Recovered operation name; details not yet recovered. | Unknown | Fragment only | Yes |
 | Operation Fusco, Open The Damn Door | Unknown | Unknown | Recovered operation name; details not yet recovered. | Unknown | Fragment only | Yes |

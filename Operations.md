@@ -32,7 +32,7 @@ Recovered fragments and uncertain details belong in the [Recovered Operations In
 - [Operation is Reese being slowly baked?](/Operations/Operation-is-Reese-being-slowly-baked)
 - [Operation Spinny Rust Prison Break](/Operations/Operation-spinny-rust-prison-break)
 - Operation Get In Loser, We're Migrating
-- Operation Electrons Are A Privilege, Not A Right
+- [Operation Electrons Are A Privilege, Not A Right](/Operations/Operation-electrons-are-a-privilege-not-a-right)
 - Operation Morning Existential Crisis Report
 - [Operation Build The Library](/Operations/Build-the-library)
 
