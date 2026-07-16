@@ -14,6 +14,8 @@ The Operation Archive is the central register of missions undertaken, proposed, 
 
 > **Archive note:** Some entries were recovered from memory and old chat fragments. Treat them as leads until properly filed.
 
+Newly recovered fragments belong in the [Recovered Operations Inbox](/Operations/Recovered-Operations-Inbox). When enough evidence exists to create a dedicated record, start with the [Operation Template](/Operations/Templates/Operation-Template).
+
 Statuses describe the evidence currently held by The Library, not necessarily the state of every underlying service. Where the archive knows only a name, it says so. Root has been asked not to improvise the missing incident report.
 
 ## Documented Operations

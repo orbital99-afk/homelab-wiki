@@ -14,6 +14,8 @@ The official archive of completed and ongoing homelab operations.
 
 For the full register—including recovered names, future missions, and matters of disputed committee provenance—see the [Operation Archive](/Operations/Operation-Archive).
 
+Recovered fragments and uncertain details belong in the [Recovered Operations Inbox](/Operations/Recovered-Operations-Inbox). Use the [Operation Template](/Operations/Templates/Operation-Template) when an entry is ready to become a full record.
+
 ## Runbooks
 
 - [Saturday Maintenance Runbook](/Operations/Saturday-Maintenance-Runbook)
