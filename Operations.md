@@ -45,6 +45,7 @@ Recovered fragments and uncertain details belong in the [Recovered Operations In
 - [Operation Why Is My 1080p Radarr Hoarding 4K Movies](/Operations/Operation-why-is-my-1080p-radarr-hoarding-4k-movies)
 - [Operation One Does Not Simply Migrate Plex](/Operations/Operation-one-does-not-simply-migrate-plex)
 - [Operation I Swear We Automated This](/Operations/Operation-i-swear-we-automated-this)
+- [Operation: The Thirty-Six-Hour Goal That Was Scored, Rescinded, Scored Again, and Eventually Entered Library Folklore](/Operations/Operation-the-thirty-six-hour-goal)
 
 ---
 

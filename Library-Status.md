@@ -25,6 +25,8 @@ The Library now includes:
 - known goblins
 - backup and disaster recovery notes
 
+> **Publication status:** The automatic repository-to-Wiki.js sync is currently disabled. Git remains the source of truth, but newly committed documentation awaits manual import or restoration of the sync path before it becomes visible in Wiki.js.
+
 The project is no longer merely accumulating pages. It is also preserving the distinction between what happened, what was attempted, and what remains uncertain.
 
 ## Documented Operations
@@ -46,6 +48,7 @@ Completed operation pages currently present:
 - [Operation Why Is My 1080p Radarr Hoarding 4K Movies](/Operations/Operation-why-is-my-1080p-radarr-hoarding-4k-movies)
 - [Operation One Does Not Simply Migrate Plex](/Operations/Operation-one-does-not-simply-migrate-plex)
 - [Operation I Swear We Automated This](/Operations/Operation-i-swear-we-automated-this)
+- [Operation: The Thirty-Six-Hour Goal That Was Scored, Rescinded, Scored Again, and Eventually Entered Library Folklore](/Operations/Operation-the-thirty-six-hour-goal)
 - [Operation Copycat Deluge](/Seedbox/Operation-Copycat-Deluge)
 
 ## Needs Reconstruction
